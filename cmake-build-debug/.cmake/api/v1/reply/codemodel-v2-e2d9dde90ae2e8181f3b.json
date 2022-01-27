@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Semana2_Tad_Pilhas",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Semana2_Tad_Pilhas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Semana2_Tad_Pilhas-Debug-6e45a8cd9daadc78db70.json",
+					"name" : "Semana2_Tad_Pilhas",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/São Carlos/2021-02/AED/Semana 2/Semana2_Tad_Pilhas/cmake-build-debug",
+		"source" : "E:/São Carlos/2021-02/AED/Semana 2/Semana2_Tad_Pilhas"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,7 @@
+# ninja log v5
+197	347	6647609960384398	Semana2_Tad_Pilhas.exe	e84c24b66f2dfd
+0	1110	6650026034879084	build.ninja	e100b5dd0d310fe9
+3	197	6647609958928292	CMakeFiles/Semana2_Tad_Pilhas.dir/TAD_PILHA_APLICACAO.c.obj	fef1f94c44b74c55
+2	632	6650027350542832	CMakeFiles/Semana2_Tad_Pilhas.dir/TAD_PILHA_APLICACAO.c.obj	fef1f94c44b74c55
+27	632	6650027350542832	CMakeFiles/Semana2_Tad_Pilhas.dir/TAD_Pilha.c.obj	d860aa6846804e09
+633	1372	6650027357907199	Semana2_Tad_Pilhas.exe	dab7b0bc2212227e

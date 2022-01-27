@@ -1,0 +1,3 @@
+E:/São Carlos/2021-02/AED/Semana 2/Semana2_Tad_Pilhas/cmake-build-debug/CMakeFiles/Semana2_Tad_Pilhas.dir
+E:/São Carlos/2021-02/AED/Semana 2/Semana2_Tad_Pilhas/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/São Carlos/2021-02/AED/Semana 2/Semana2_Tad_Pilhas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
